@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Template and demo notebooks
+/notebooks/
+.idea/
+dev.py
